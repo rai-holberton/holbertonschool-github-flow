@@ -1,3 +1,3 @@
-## Unreleased
-   - <The introduction and project history have been updated with notes on collaborative work.>
-   - <A conflict was resolved to improve the document on team collaboration.>
+## v1.1.0
+- L'introduction et l'historique du projet ont été m a jour avec des notes sur le travail collaboratif.
+- Un conflit a été résolu pour améli le document sur la collaboration en équipe
