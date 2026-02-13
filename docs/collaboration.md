@@ -6,3 +6,4 @@ This documentation project started as a simple collection of notes about collabo
 
 
 The most important aspect of collaboration is communication. Comments in pull requests, documentation updates, and cleardescriptions of changes all help maintain a shared understanding of the project.
+
